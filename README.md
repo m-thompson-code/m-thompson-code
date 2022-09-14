@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm into Angular and cows :)
+I'm into Angular and cows :) and you can also let the world know what you're into by [adding a README.me to your personal repo](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)
 
 <!--
 **m-thompson-code/m-thompson-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
