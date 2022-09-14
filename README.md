@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm into Angular and cows :)
+
 <!--
 **m-thompson-code/m-thompson-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
